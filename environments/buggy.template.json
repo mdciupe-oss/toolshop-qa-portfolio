@@ -1,0 +1,60 @@
+{
+	"id": "c4db1c36-873c-4565-b91d-f079159339fa",
+	"name": "Toolshop - Buggy",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "https://api-with-bugs.practicesoftwaretesting.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "adminEmail",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "adminPassword",
+			"value": "",
+			"type": "default",
+			"enabled": true,
+			"secret": true
+		},
+		{
+			"key": "customerEmail",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "customerPassword",
+			"value": "",
+			"type": "default",
+			"enabled": true,
+			"secret": true
+		},
+		{
+			"key": "productId",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "brandId",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "categoryId",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-08-08T21:41:51.692Z",
+	"_postman_exported_using": "Postman/12.22.8"
+}

@@ -1,0 +1,13 @@
+node_modules/
+reports/
+*.local.json
+environments/*.json
+!environments/*.template.json
+.env
+playwright-report/
+test-results/
+.DS_Store
+~$*
+*.tmp
+~WRL*
+.vscode/
